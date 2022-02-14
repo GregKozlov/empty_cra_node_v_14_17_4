@@ -1,9 +1,9 @@
-import "./App.css";
+import "./styles.scss";
 
 const App = () => {
   return (
     <>
-      <div>Hello world</div>
+      <div>Empty CRA node v14.17.4</div>
     </>
   );
 };
